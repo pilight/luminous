@@ -1,4 +1,4 @@
-pilight-control-android
+Luminous App for Android
 =======================
 
-pilight control android app
+Readme TBD
